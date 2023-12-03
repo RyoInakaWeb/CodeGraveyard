@@ -1,0 +1,32 @@
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# IDE/エディタ固有の設定
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ビルド出力
+build/
+dist/
+*.log
+
+# 依存関係ファイル
+node_modules/
+vendor/
+
+# 環境設定ファイル
+.env
+*.pem
+
+# 一時ファイル
+*.tmp
+*.temp
+
+# その他のファイル
+*.swp
+*.swo
+*.bak
+*.orig
